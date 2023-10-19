@@ -1,0 +1,4 @@
+fix: making a change to the font
+
+Implementing change to the font from TNR to Arial. 
+issue #83

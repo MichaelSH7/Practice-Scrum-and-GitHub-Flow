@@ -1,0 +1,4 @@
+fix: user interface
+
+Implementing change to the user interface
+issue #84
