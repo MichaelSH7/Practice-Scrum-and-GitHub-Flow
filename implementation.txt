@@ -1,5 +1,4 @@
 fix: making a change to the font
 
-Implementing change to the font from comic sans to times new roman.
-
+Implementing change to the font from TNR to Arial. 
 issue #83
