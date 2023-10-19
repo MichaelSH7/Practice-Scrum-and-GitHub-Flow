@@ -1,5 +1,5 @@
 fix: making a change to the font
 
-Changed the font from comic sans to arial.
+Changed the font from arial to times new roman.
 
 issue #83
